@@ -9,8 +9,6 @@ Use git to clone this repository
 git clone https://github.com/fdhanh/etl-on-local.git
 ```
 
-## Pipeline graph
-
 ## Data
 ### Input
 Download example data <a href = "https://drive.google.com/file/d/1YgqmdI-8oXwPs8AEf3CzOCq3EpvjwRdA/view?usp=sharing"> here </a>
